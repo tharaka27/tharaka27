@@ -14,3 +14,7 @@
               | |__| | | |_) | | |             \  /\  /    | (_| | | | | |   
                \____/  |_.__/  |_|              \/  \/      \__,_| |_| |_|
 ```
+ - 🔭 I'm currently working on making R2-D2 a reality.
+ - 👯 I'm looking to collaborate on opensource robotics projects!
+ - 📫 How to reach me: 
+      - [Linkedin](https://www.linkedin.com/in/tharaka-ratnayake/)  
