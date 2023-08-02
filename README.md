@@ -16,5 +16,6 @@
 ```
  - 🔭 I'm currently working on making R2-D2 a reality.
  - 👯 I'm looking to collaborate on opensource robotics projects!
+ - 👯 I'm looking for a PhD opportunity in Motion Planning or other robotics related Subject.
  - 📫 How to reach me: 
       - [Linkedin](https://www.linkedin.com/in/tharaka-ratnayake/)  
